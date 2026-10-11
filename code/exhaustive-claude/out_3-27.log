@@ -1,0 +1,23 @@
+group 3 order=3 k=3..3 subsets=1 fail=0 unknown=0 maxnodes=3 limit=2000000
+group 5 order=5 k=3..5 subsets=11 fail=0 unknown=0 maxnodes=7 limit=2000000
+group 7 order=7 k=3..7 subsets=57 fail=0 unknown=0 maxnodes=101 limit=2000000
+group 9 order=9 k=3..9 subsets=247 fail=0 unknown=0 maxnodes=313 limit=2000000
+group 3 3 order=9 k=3..9 subsets=247 fail=0 unknown=0 maxnodes=472 limit=2000000
+group 11 order=11 k=3..11 subsets=1013 fail=0 unknown=0 maxnodes=5781 limit=2000000
+group 13 order=13 k=3..13 subsets=4083 fail=0 unknown=0 maxnodes=160679 limit=2000000
+group 15 order=15 k=3..15 subsets=16369 fail=0 unknown=0 maxnodes=2000001 limit=2000000
+group 17 order=17 k=3..17 subsets=65519 fail=0 unknown=0 maxnodes=2000001 limit=2000000
+group 19 order=19 k=3..19 subsets=262125 fail=0 unknown=0 maxnodes=2000001 limit=2000000
+group 21 order=21 k=3..21 subsets=1048555 fail=0 unknown=0 maxnodes=2000001 limit=2000000
+4.17s
+group 23 order=23 k=3..23 subsets=4194281 fail=0 unknown=0 maxnodes=2000001 limit=2000000
+11.38s
+group 25 order=25 k=3..25 subsets=16777191 fail=0 unknown=0 maxnodes=2000001 limit=2000000
+15.25s
+group 5 5 order=25 k=3..25 subsets=16777191 fail=0 unknown=0 maxnodes=2000001 limit=2000000
+100.12s
+group 27 order=27 k=3..27 subsets=67108837 fail=0 unknown=0 maxnodes=2000001 limit=2000000
+77.44s
+group 3 9 order=27 k=3..27 subsets=67108837 fail=0 unknown=0 maxnodes=2000001 limit=2000000
+345.84s
+group 3 3 3 order=27 k=3..27 subsets=67108837 fail=0 unknown=0 maxnodes=2000001 limit=2000000

@@ -1,0 +1,4 @@
+import SunTwoDeletion.Ordering
+import SunTwoDeletion.GeneratorTheorem
+
+set_option autoImplicit false

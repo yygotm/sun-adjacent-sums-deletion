@@ -1,0 +1,2 @@
+group 29 order=29 k=3..29 subsets=268435427 fail=0 unknown=0 maxnodes=2000001 limit=2000000
+group 31 order=31 k=3..31 subsets=1073741793 fail=0 unknown=0 maxnodes=2000001 limit=2000000

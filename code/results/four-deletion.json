@@ -1,0 +1,476 @@
+{
+  "groups": [
+    {
+      "stage": "group-complete",
+      "group": "Z7",
+      "dims": [
+        7
+      ],
+      "order": 7,
+      "normalized": 20,
+      "allFourSets": 35,
+      "verified": 35,
+      "normalizedCounterexamples": 0,
+      "normalizedUnknown": 0,
+      "nodes": 60,
+      "seconds": 0.0474672
+    },
+    {
+      "stage": "group-complete",
+      "group": "Z3xZ3",
+      "dims": [
+        3,
+        3
+      ],
+      "order": 9,
+      "normalized": 56,
+      "allFourSets": 126,
+      "verified": 126,
+      "normalizedCounterexamples": 0,
+      "normalizedUnknown": 0,
+      "nodes": 364,
+      "seconds": 0.0015319
+    },
+    {
+      "stage": "group-complete",
+      "group": "Z9",
+      "dims": [
+        9
+      ],
+      "order": 9,
+      "normalized": 56,
+      "allFourSets": 126,
+      "verified": 126,
+      "normalizedCounterexamples": 0,
+      "normalizedUnknown": 0,
+      "nodes": 370,
+      "seconds": 0.0017828
+    },
+    {
+      "stage": "group-complete",
+      "group": "Z11",
+      "dims": [
+        11
+      ],
+      "order": 11,
+      "normalized": 120,
+      "allFourSets": 330,
+      "verified": 330,
+      "normalizedCounterexamples": 0,
+      "normalizedUnknown": 0,
+      "nodes": 1253,
+      "seconds": 0.0041232
+    },
+    {
+      "stage": "group-complete",
+      "group": "Z13",
+      "dims": [
+        13
+      ],
+      "order": 13,
+      "normalized": 220,
+      "allFourSets": 715,
+      "verified": 715,
+      "normalizedCounterexamples": 0,
+      "normalizedUnknown": 0,
+      "nodes": 3751,
+      "seconds": 0.0098329
+    },
+    {
+      "stage": "group-complete",
+      "group": "Z15",
+      "dims": [
+        15
+      ],
+      "order": 15,
+      "normalized": 364,
+      "allFourSets": 1365,
+      "verified": 1365,
+      "normalizedCounterexamples": 0,
+      "normalizedUnknown": 0,
+      "nodes": 10386,
+      "seconds": 0.0176585
+    },
+    {
+      "stage": "group-complete",
+      "group": "Z17",
+      "dims": [
+        17
+      ],
+      "order": 17,
+      "normalized": 560,
+      "allFourSets": 2380,
+      "verified": 2380,
+      "normalizedCounterexamples": 0,
+      "normalizedUnknown": 0,
+      "nodes": 25959,
+      "seconds": 0.0251122
+    },
+    {
+      "stage": "group-complete",
+      "group": "Z19",
+      "dims": [
+        19
+      ],
+      "order": 19,
+      "normalized": 816,
+      "allFourSets": 3876,
+      "verified": 3876,
+      "normalizedCounterexamples": 0,
+      "normalizedUnknown": 0,
+      "nodes": 78391,
+      "seconds": 0.0707871
+    },
+    {
+      "stage": "group-complete",
+      "group": "Z21",
+      "dims": [
+        21
+      ],
+      "order": 21,
+      "normalized": 1140,
+      "allFourSets": 5985,
+      "verified": 5985,
+      "normalizedCounterexamples": 0,
+      "normalizedUnknown": 0,
+      "nodes": 215955,
+      "seconds": 0.0899923
+    },
+    {
+      "stage": "group-complete",
+      "group": "Z23",
+      "dims": [
+        23
+      ],
+      "order": 23,
+      "normalized": 1540,
+      "allFourSets": 8855,
+      "verified": 8855,
+      "normalizedCounterexamples": 0,
+      "normalizedUnknown": 0,
+      "nodes": 814944,
+      "seconds": 0.2153911
+    },
+    {
+      "stage": "group-complete",
+      "group": "Z25",
+      "dims": [
+        25
+      ],
+      "order": 25,
+      "normalized": 2024,
+      "allFourSets": 12650,
+      "verified": 12650,
+      "normalizedCounterexamples": 0,
+      "normalizedUnknown": 0,
+      "nodes": 2432784,
+      "seconds": 0.5547418
+    },
+    {
+      "stage": "group-complete",
+      "group": "Z5xZ5",
+      "dims": [
+        5,
+        5
+      ],
+      "order": 25,
+      "normalized": 2024,
+      "allFourSets": 12650,
+      "verified": 12650,
+      "normalizedCounterexamples": 0,
+      "normalizedUnknown": 0,
+      "nodes": 5373519,
+      "seconds": 0.9105393
+    },
+    {
+      "stage": "group-complete",
+      "group": "Z27",
+      "dims": [
+        27
+      ],
+      "order": 27,
+      "normalized": 2600,
+      "allFourSets": 17550,
+      "verified": 17550,
+      "normalizedCounterexamples": 0,
+      "normalizedUnknown": 0,
+      "nodes": 10035042,
+      "seconds": 0.7037722
+    },
+    {
+      "stage": "group-complete",
+      "group": "Z3xZ3xZ3",
+      "dims": [
+        3,
+        3,
+        3
+      ],
+      "order": 27,
+      "normalized": 2600,
+      "allFourSets": 17550,
+      "verified": 17550,
+      "normalizedCounterexamples": 0,
+      "normalizedUnknown": 0,
+      "nodes": 16428809,
+      "seconds": 0.9352967
+    },
+    {
+      "stage": "group-complete",
+      "group": "Z3xZ9",
+      "dims": [
+        3,
+        9
+      ],
+      "order": 27,
+      "normalized": 2600,
+      "allFourSets": 17550,
+      "verified": 17550,
+      "normalizedCounterexamples": 0,
+      "normalizedUnknown": 0,
+      "nodes": 18455763,
+      "seconds": 1.0961805
+    },
+    {
+      "stage": "group-complete",
+      "group": "Z29",
+      "dims": [
+        29
+      ],
+      "order": 29,
+      "normalized": 3276,
+      "allFourSets": 23751,
+      "verified": 23751,
+      "normalizedCounterexamples": 0,
+      "normalizedUnknown": 0,
+      "nodes": 31224787,
+      "seconds": 1.7996378
+    },
+    {
+      "stage": "group-complete",
+      "group": "Z31",
+      "dims": [
+        31
+      ],
+      "order": 31,
+      "normalized": 4060,
+      "allFourSets": 31465,
+      "verified": 31465,
+      "normalizedCounterexamples": 0,
+      "normalizedUnknown": 0,
+      "nodes": 85342975,
+      "seconds": 4.9957703
+    },
+    {
+      "stage": "group-complete",
+      "group": "Z33",
+      "dims": [
+        33
+      ],
+      "order": 33,
+      "normalized": 4960,
+      "allFourSets": 40920,
+      "verified": 40920,
+      "normalizedCounterexamples": 0,
+      "normalizedUnknown": 0,
+      "nodes": 139533804,
+      "seconds": 8.4970969
+    },
+    {
+      "stage": "group-complete",
+      "group": "Z35",
+      "dims": [
+        35
+      ],
+      "order": 35,
+      "normalized": 5984,
+      "allFourSets": 52360,
+      "verified": 52360,
+      "normalizedCounterexamples": 0,
+      "normalizedUnknown": 0,
+      "nodes": 203485958,
+      "seconds": 12.8225583
+    },
+    {
+      "stage": "group-complete",
+      "group": "Z37",
+      "dims": [
+        37
+      ],
+      "order": 37,
+      "normalized": 7140,
+      "allFourSets": 66045,
+      "verified": 66045,
+      "normalizedCounterexamples": 0,
+      "normalizedUnknown": 0,
+      "nodes": 262630513,
+      "seconds": 15.1264999
+    },
+    {
+      "stage": "group-complete",
+      "group": "Z39",
+      "dims": [
+        39
+      ],
+      "order": 39,
+      "normalized": 8436,
+      "allFourSets": 82251,
+      "verified": 82251,
+      "normalizedCounterexamples": 0,
+      "normalizedUnknown": 0,
+      "nodes": 342562042,
+      "seconds": 20.6769376
+    },
+    {
+      "stage": "group-complete",
+      "group": "Z41",
+      "dims": [
+        41
+      ],
+      "order": 41,
+      "normalized": 9880,
+      "allFourSets": 101270,
+      "verified": 101270,
+      "normalizedCounterexamples": 0,
+      "normalizedUnknown": 0,
+      "nodes": 430045384,
+      "seconds": 26.5626773
+    },
+    {
+      "stage": "group-complete",
+      "group": "Z43",
+      "dims": [
+        43
+      ],
+      "order": 43,
+      "normalized": 11480,
+      "allFourSets": 123410,
+      "verified": 123410,
+      "normalizedCounterexamples": 0,
+      "normalizedUnknown": 0,
+      "nodes": 545537118,
+      "seconds": 34.4141726
+    },
+    {
+      "stage": "group-complete",
+      "group": "Z3xZ15",
+      "dims": [
+        3,
+        15
+      ],
+      "order": 45,
+      "normalized": 13244,
+      "allFourSets": 148995,
+      "verified": 148995,
+      "normalizedCounterexamples": 0,
+      "normalizedUnknown": 0,
+      "nodes": 1165463618,
+      "seconds": 79.3898712
+    },
+    {
+      "stage": "group-complete",
+      "group": "Z45",
+      "dims": [
+        45
+      ],
+      "order": 45,
+      "normalized": 13244,
+      "allFourSets": 148995,
+      "verified": 148995,
+      "normalizedCounterexamples": 0,
+      "normalizedUnknown": 0,
+      "nodes": 676539344,
+      "seconds": 43.9529512
+    },
+    {
+      "stage": "group-complete",
+      "group": "Z47",
+      "dims": [
+        47
+      ],
+      "order": 47,
+      "normalized": 15180,
+      "allFourSets": 178365,
+      "verified": 178365,
+      "normalizedCounterexamples": 0,
+      "normalizedUnknown": 0,
+      "nodes": 839201961,
+      "seconds": 62.9823337
+    },
+    {
+      "stage": "group-complete",
+      "group": "Z49",
+      "dims": [
+        49
+      ],
+      "order": 49,
+      "normalized": 17296,
+      "allFourSets": 211876,
+      "verified": 211876,
+      "normalizedCounterexamples": 0,
+      "normalizedUnknown": 0,
+      "nodes": 1038900929,
+      "seconds": 80.1756738
+    },
+    {
+      "stage": "group-complete",
+      "group": "Z7xZ7",
+      "dims": [
+        7,
+        7
+      ],
+      "order": 49,
+      "normalized": 17296,
+      "allFourSets": 211876,
+      "verified": 211876,
+      "normalizedCounterexamples": 0,
+      "normalizedUnknown": 0,
+      "nodes": 1295235818,
+      "seconds": 99.8232599
+    },
+    {
+      "stage": "group-complete",
+      "group": "Z51",
+      "dims": [
+        51
+      ],
+      "order": 51,
+      "normalized": 19600,
+      "allFourSets": 249900,
+      "verified": 249900,
+      "normalizedCounterexamples": 0,
+      "normalizedUnknown": 0,
+      "nodes": 1299720980,
+      "seconds": 102.3699296
+    },
+    {
+      "stage": "group-complete",
+      "group": "Z53",
+      "dims": [
+        53
+      ],
+      "order": 53,
+      "normalized": 22100,
+      "allFourSets": 292825,
+      "verified": 292825,
+      "normalizedCounterexamples": 0,
+      "normalizedUnknown": 0,
+      "nodes": 1578336787,
+      "seconds": 128.4774392
+    },
+    {
+      "stage": "group-complete",
+      "group": "Z55",
+      "dims": [
+        55
+      ],
+      "order": 55,
+      "normalized": 24804,
+      "allFourSets": 341055,
+      "verified": 341055,
+      "normalizedCounterexamples": 0,
+      "normalizedUnknown": 0,
+      "nodes": 1966868462,
+      "seconds": 164.0471779
+    }
+  ]
+}

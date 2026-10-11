@@ -1,0 +1,147 @@
+[
+  {
+    "file": "all-subsets/Z11/blocks.jsonl",
+    "bytes": 500,
+    "sha256": "539b3dd96e7534d848e4946d53671eb437a9197fc3bac5ffc59975f11463a30a"
+  },
+  {
+    "file": "all-subsets/Z13/blocks.jsonl",
+    "bytes": 516,
+    "sha256": "5cea16b2e06cb83720cde821d85200dbb362df9ac91f5543cb2453b9761c6f4b"
+  },
+  {
+    "file": "all-subsets/Z15/blocks.jsonl",
+    "bytes": 548,
+    "sha256": "b5a76800282d2875684566c6bd7e33293ce289d69bc2cd6dd2f069617297acd6"
+  },
+  {
+    "file": "all-subsets/Z17/blocks.jsonl",
+    "bytes": 582,
+    "sha256": "8cf61362ac0637216c49acd6185fae729e9a02829327fe8c632cdb07f95e9bf7"
+  },
+  {
+    "file": "all-subsets/Z19/blocks.jsonl",
+    "bytes": 2058,
+    "sha256": "03ee74496fdbb9850ab0293159c917e95c99ffb5aed104b95e03bfeff5db9698"
+  },
+  {
+    "file": "all-subsets/Z21/blocks.jsonl",
+    "bytes": 8045,
+    "sha256": "417809dd9e83e93e36d5be43823a362e9c84e42006421912f8263ba97228489a"
+  },
+  {
+    "file": "all-subsets/Z23/blocks.jsonl",
+    "bytes": 31839,
+    "sha256": "51320567fc24d9f96870f439e8513891deda5efbe37f4e41566a94998c34688b"
+  },
+  {
+    "file": "all-subsets/Z25/blocks.jsonl",
+    "bytes": 126781,
+    "sha256": "2fb60a8f88e81ab7d760fe539a4bef35dfd328878d2a874b03a61000794d9ddf"
+  },
+  {
+    "file": "all-subsets/Z27/blocks.jsonl",
+    "bytes": 504977,
+    "sha256": "23e9060a05b1ef0febb8428e5a326f62b6b2a87b819d243b27a472008dfec3d6"
+  },
+  {
+    "file": "all-subsets/Z29/blocks.jsonl",
+    "bytes": 2018123,
+    "sha256": "e525703509c7b31df4da58ac04b81545f240f1484ef080c8aec1bf217df532d8"
+  },
+  {
+    "file": "all-subsets/Z3/blocks.jsonl",
+    "bytes": 450,
+    "sha256": "b271d16898791f4a69882832acaa16fcca3910313e3c00ad5afc79f74cc611a1"
+  },
+  {
+    "file": "all-subsets/Z31/blocks.jsonl",
+    "bytes": 8058607,
+    "sha256": "39d1680125428cd39774bc9206d734c4ca16f13105f7ff27b3660b061887e4e1"
+  },
+  {
+    "file": "all-subsets/Z33/blocks.jsonl",
+    "bytes": 2865932,
+    "sha256": "bc1dd89a01ce3ce015c777d0f1a9d04b07685b81a08dba1571a905238d1bf0a8"
+  },
+  {
+    "file": "all-subsets/Z35/blocks.jsonl",
+    "bytes": 11438369,
+    "sha256": "f3e6504edcdcec70be6ce0d702d1007e6ebf4da4d4bfd985e0abe7b6278d0f10"
+  },
+  {
+    "file": "all-subsets/Z3xZ3/blocks.jsonl",
+    "bytes": 477,
+    "sha256": "360192524c1f622f5566e4d2a54e128c0f8410adc3d8e2ed976d8fe43460c753"
+  },
+  {
+    "file": "all-subsets/Z3xZ3xZ3/blocks.jsonl",
+    "bytes": 517942,
+    "sha256": "7716dd0b71694e6805074ccb610e822c2442b8b5eaf6d0d27992db7d3c80130c"
+  },
+  {
+    "file": "all-subsets/Z3xZ9/blocks.jsonl",
+    "bytes": 513288,
+    "sha256": "99eb8825bf47aaaa9044a3a957d93c634a7cc381235eff875f0a23494674c327"
+  },
+  {
+    "file": "all-subsets/Z5/blocks.jsonl",
+    "bytes": 455,
+    "sha256": "df64d22b19ea964022904343bdd02afd461e6f2aaf7046dc9c28d9f23eca6569"
+  },
+  {
+    "file": "all-subsets/Z5xZ5/blocks.jsonl",
+    "bytes": 130193,
+    "sha256": "6d3c94bdf19fff3341aca3a2ea098ef9043656b27f47864b6d8b10f0c327e6ef"
+  },
+  {
+    "file": "all-subsets/Z7/blocks.jsonl",
+    "bytes": 461,
+    "sha256": "feb17d8f75781895bcbf0b04b3bb87a76638fca2293f99b870d06c72609041f6"
+  },
+  {
+    "file": "all-subsets/Z9/blocks.jsonl",
+    "bytes": 476,
+    "sha256": "ea91121c343fafb6eea7502eaff6120c33cc7494f9cd17ad83dc38c66172012f"
+  },
+  {
+    "file": "four-deletion/witnesses-7-35.jsonl",
+    "bytes": 5603782,
+    "sha256": "64f65e13cb6b31b5dbb2a68025f40c04abead1c23f24f5c412bd3f15b2823375"
+  },
+  {
+    "file": "four-deletion/witnesses-37-45.jsonl",
+    "bytes": 12862197,
+    "sha256": "7a8d9f317fa2c6a1d702eff9c82b68476be6d066b40d961c1acf0f12703df92d"
+  },
+  {
+    "file": "four-deletion/witnesses-47-55.jsonl",
+    "bytes": 26595075,
+    "sha256": "bd628232bc9743a0d2a59550f8bf1a0ff0a9dde3518d56974f4cfc1c156a70a2"
+  },
+  {
+    "file": "four-deletion/construction-witnesses-35.jsonl",
+    "bytes": 6046361,
+    "sha256": "97417ba1287e9e8f70a23de3683dc4ff12cc75cba362c73a96e67db89166c421"
+  },
+  {
+    "file": "four-deletion/construction-extra-witnesses.jsonl",
+    "bytes": 18906680,
+    "sha256": "4fa0a5199d141cc8d299a7b95852cc4c5689f306a382a823e2faeb96cd1945ba"
+  },
+  {
+    "file": "three-deletion/witnesses.jsonl",
+    "bytes": 614333,
+    "sha256": "3631d29fd1412ba2c61b084687b2246dbe9624ea8553f71c430d63d6ee25b7a6"
+  },
+  {
+    "file": "three-deletion/complete-witnesses.jsonl",
+    "bytes": 719295,
+    "sha256": "f5441803fe9aa300ae70c3dac9adeeea1d7292894734ac96b14b209cbc3bd01a"
+  },
+  {
+    "file": "three-deletion/structural-witnesses.jsonl",
+    "bytes": 261466,
+    "sha256": "ce0efce6d8cd3129ca82fc381db829e1d5e822608ab4642297830aec5afe6f1e"
+  }
+]

@@ -1,0 +1,2668 @@
+{
+  "groups": [
+    {
+      "group": "Z3",
+      "radices": [
+        3
+      ],
+      "order": 3,
+      "normalizedSubsets": 1,
+      "allSubsets": 1,
+      "representatives": 1,
+      "counterexampleRepresentatives": [],
+      "unresolvedRepresentatives": [],
+      "wallSecondsThisInvocation": 0.0557756,
+      "blockWorkerSeconds": 0.0022478,
+      "searchNodes": 0,
+      "retriedRepresentatives": 0,
+      "threads": 8,
+      "coverageVerified": true,
+      "independentWitnessVerification": true,
+      "bySize": [
+        {
+          "size": 3,
+          "representatives": 1,
+          "normalized": 1,
+          "all": 1
+        }
+      ]
+    },
+    {
+      "group": "Z5",
+      "radices": [
+        5
+      ],
+      "order": 5,
+      "normalizedSubsets": 11,
+      "allSubsets": 16,
+      "representatives": 4,
+      "counterexampleRepresentatives": [],
+      "unresolvedRepresentatives": [],
+      "wallSecondsThisInvocation": 0.0007469,
+      "blockWorkerSeconds": 0.0002202,
+      "searchNodes": 4,
+      "retriedRepresentatives": 0,
+      "threads": 8,
+      "coverageVerified": true,
+      "independentWitnessVerification": true,
+      "bySize": [
+        {
+          "size": 3,
+          "representatives": 2,
+          "normalized": 6,
+          "all": 10
+        },
+        {
+          "size": 4,
+          "representatives": 1,
+          "normalized": 4,
+          "all": 5
+        },
+        {
+          "size": 5,
+          "representatives": 1,
+          "normalized": 1,
+          "all": 1
+        }
+      ]
+    },
+    {
+      "group": "Z7",
+      "radices": [
+        7
+      ],
+      "order": 7,
+      "normalizedSubsets": 57,
+      "allSubsets": 99,
+      "representatives": 15,
+      "counterexampleRepresentatives": [],
+      "unresolvedRepresentatives": [],
+      "wallSecondsThisInvocation": 0.0005674,
+      "blockWorkerSeconds": 2.27e-05,
+      "searchNodes": 57,
+      "retriedRepresentatives": 0,
+      "threads": 8,
+      "coverageVerified": true,
+      "independentWitnessVerification": true,
+      "bySize": [
+        {
+          "size": 3,
+          "representatives": 5,
+          "normalized": 15,
+          "all": 35
+        },
+        {
+          "size": 4,
+          "representatives": 5,
+          "normalized": 20,
+          "all": 35
+        },
+        {
+          "size": 5,
+          "representatives": 3,
+          "normalized": 15,
+          "all": 21
+        },
+        {
+          "size": 6,
+          "representatives": 1,
+          "normalized": 6,
+          "all": 7
+        },
+        {
+          "size": 7,
+          "representatives": 1,
+          "normalized": 1,
+          "all": 1
+        }
+      ]
+    },
+    {
+      "group": "Z3xZ3",
+      "radices": [
+        3,
+        3
+      ],
+      "order": 9,
+      "normalizedSubsets": 247,
+      "allSubsets": 466,
+      "representatives": 58,
+      "counterexampleRepresentatives": [],
+      "unresolvedRepresentatives": [],
+      "wallSecondsThisInvocation": 0.0007892,
+      "blockWorkerSeconds": 0.0001269,
+      "searchNodes": 403,
+      "retriedRepresentatives": 0,
+      "threads": 8,
+      "coverageVerified": true,
+      "independentWitnessVerification": true,
+      "bySize": [
+        {
+          "size": 3,
+          "representatives": 12,
+          "normalized": 28,
+          "all": 84
+        },
+        {
+          "size": 4,
+          "representatives": 14,
+          "normalized": 56,
+          "all": 126
+        },
+        {
+          "size": 5,
+          "representatives": 14,
+          "normalized": 70,
+          "all": 126
+        },
+        {
+          "size": 6,
+          "representatives": 12,
+          "normalized": 56,
+          "all": 84
+        },
+        {
+          "size": 7,
+          "representatives": 4,
+          "normalized": 28,
+          "all": 36
+        },
+        {
+          "size": 8,
+          "representatives": 1,
+          "normalized": 8,
+          "all": 9
+        },
+        {
+          "size": 9,
+          "representatives": 1,
+          "normalized": 1,
+          "all": 1
+        }
+      ]
+    },
+    {
+      "group": "Z9",
+      "radices": [
+        9
+      ],
+      "order": 9,
+      "normalizedSubsets": 247,
+      "allSubsets": 466,
+      "representatives": 54,
+      "counterexampleRepresentatives": [],
+      "unresolvedRepresentatives": [],
+      "wallSecondsThisInvocation": 0.0006188,
+      "blockWorkerSeconds": 9.03e-05,
+      "searchNodes": 179,
+      "retriedRepresentatives": 0,
+      "threads": 8,
+      "coverageVerified": true,
+      "independentWitnessVerification": true,
+      "bySize": [
+        {
+          "size": 3,
+          "representatives": 10,
+          "normalized": 28,
+          "all": 84
+        },
+        {
+          "size": 4,
+          "representatives": 14,
+          "normalized": 56,
+          "all": 126
+        },
+        {
+          "size": 5,
+          "representatives": 14,
+          "normalized": 70,
+          "all": 126
+        },
+        {
+          "size": 6,
+          "representatives": 10,
+          "normalized": 56,
+          "all": 84
+        },
+        {
+          "size": 7,
+          "representatives": 4,
+          "normalized": 28,
+          "all": 36
+        },
+        {
+          "size": 8,
+          "representatives": 1,
+          "normalized": 8,
+          "all": 9
+        },
+        {
+          "size": 9,
+          "representatives": 1,
+          "normalized": 1,
+          "all": 1
+        }
+      ]
+    },
+    {
+      "group": "Z11",
+      "radices": [
+        11
+      ],
+      "order": 11,
+      "normalizedSubsets": 1013,
+      "allSubsets": 1981,
+      "representatives": 181,
+      "counterexampleRepresentatives": [],
+      "unresolvedRepresentatives": [],
+      "wallSecondsThisInvocation": 0.0009904,
+      "blockWorkerSeconds": 0.0003693,
+      "searchNodes": 1021,
+      "retriedRepresentatives": 0,
+      "threads": 8,
+      "coverageVerified": true,
+      "independentWitnessVerification": true,
+      "bySize": [
+        {
+          "size": 3,
+          "representatives": 15,
+          "normalized": 45,
+          "all": 165
+        },
+        {
+          "size": 4,
+          "representatives": 30,
+          "normalized": 120,
+          "all": 330
+        },
+        {
+          "size": 5,
+          "representatives": 42,
+          "normalized": 210,
+          "all": 462
+        },
+        {
+          "size": 6,
+          "representatives": 42,
+          "normalized": 252,
+          "all": 462
+        },
+        {
+          "size": 7,
+          "representatives": 30,
+          "normalized": 210,
+          "all": 330
+        },
+        {
+          "size": 8,
+          "representatives": 15,
+          "normalized": 120,
+          "all": 165
+        },
+        {
+          "size": 9,
+          "representatives": 5,
+          "normalized": 45,
+          "all": 55
+        },
+        {
+          "size": 10,
+          "representatives": 1,
+          "normalized": 10,
+          "all": 11
+        },
+        {
+          "size": 11,
+          "representatives": 1,
+          "normalized": 1,
+          "all": 1
+        }
+      ]
+    },
+    {
+      "group": "Z13",
+      "radices": [
+        13
+      ],
+      "order": 13,
+      "normalizedSubsets": 4083,
+      "allSubsets": 8100,
+      "representatives": 624,
+      "counterexampleRepresentatives": [],
+      "unresolvedRepresentatives": [],
+      "wallSecondsThisInvocation": 0.0017557,
+      "blockWorkerSeconds": 0.0011673,
+      "searchNodes": 4604,
+      "retriedRepresentatives": 0,
+      "threads": 8,
+      "coverageVerified": true,
+      "independentWitnessVerification": true,
+      "bySize": [
+        {
+          "size": 3,
+          "representatives": 22,
+          "normalized": 66,
+          "all": 286
+        },
+        {
+          "size": 4,
+          "representatives": 55,
+          "normalized": 220,
+          "all": 715
+        },
+        {
+          "size": 5,
+          "representatives": 99,
+          "normalized": 495,
+          "all": 1287
+        },
+        {
+          "size": 6,
+          "representatives": 132,
+          "normalized": 792,
+          "all": 1716
+        },
+        {
+          "size": 7,
+          "representatives": 132,
+          "normalized": 924,
+          "all": 1716
+        },
+        {
+          "size": 8,
+          "representatives": 99,
+          "normalized": 792,
+          "all": 1287
+        },
+        {
+          "size": 9,
+          "representatives": 55,
+          "normalized": 495,
+          "all": 715
+        },
+        {
+          "size": 10,
+          "representatives": 22,
+          "normalized": 220,
+          "all": 286
+        },
+        {
+          "size": 11,
+          "representatives": 6,
+          "normalized": 66,
+          "all": 78
+        },
+        {
+          "size": 12,
+          "representatives": 1,
+          "normalized": 12,
+          "all": 13
+        },
+        {
+          "size": 13,
+          "representatives": 1,
+          "normalized": 1,
+          "all": 1
+        }
+      ]
+    },
+    {
+      "group": "Z15",
+      "radices": [
+        15
+      ],
+      "order": 15,
+      "normalizedSubsets": 16369,
+      "allSubsets": 32647,
+      "representatives": 2183,
+      "counterexampleRepresentatives": [],
+      "unresolvedRepresentatives": [],
+      "wallSecondsThisInvocation": 0.0256492,
+      "blockWorkerSeconds": 0.0249565,
+      "searchNodes": 20919,
+      "retriedRepresentatives": 0,
+      "threads": 8,
+      "coverageVerified": true,
+      "independentWitnessVerification": true,
+      "bySize": [
+        {
+          "size": 3,
+          "representatives": 31,
+          "normalized": 91,
+          "all": 455
+        },
+        {
+          "size": 4,
+          "representatives": 91,
+          "normalized": 364,
+          "all": 1365
+        },
+        {
+          "size": 5,
+          "representatives": 201,
+          "normalized": 1001,
+          "all": 3003
+        },
+        {
+          "size": 6,
+          "representatives": 335,
+          "normalized": 2002,
+          "all": 5005
+        },
+        {
+          "size": 7,
+          "representatives": 429,
+          "normalized": 3003,
+          "all": 6435
+        },
+        {
+          "size": 8,
+          "representatives": 429,
+          "normalized": 3432,
+          "all": 6435
+        },
+        {
+          "size": 9,
+          "representatives": 335,
+          "normalized": 3003,
+          "all": 5005
+        },
+        {
+          "size": 10,
+          "representatives": 201,
+          "normalized": 2002,
+          "all": 3003
+        },
+        {
+          "size": 11,
+          "representatives": 91,
+          "normalized": 1001,
+          "all": 1365
+        },
+        {
+          "size": 12,
+          "representatives": 31,
+          "normalized": 364,
+          "all": 455
+        },
+        {
+          "size": 13,
+          "representatives": 7,
+          "normalized": 91,
+          "all": 105
+        },
+        {
+          "size": 14,
+          "representatives": 1,
+          "normalized": 14,
+          "all": 15
+        },
+        {
+          "size": 15,
+          "representatives": 1,
+          "normalized": 1,
+          "all": 1
+        }
+      ]
+    },
+    {
+      "group": "Z17",
+      "radices": [
+        17
+      ],
+      "order": 17,
+      "normalizedSubsets": 65519,
+      "allSubsets": 130918,
+      "representatives": 7702,
+      "counterexampleRepresentatives": [],
+      "unresolvedRepresentatives": [],
+      "wallSecondsThisInvocation": 0.016874,
+      "blockWorkerSeconds": 0.0163128,
+      "searchNodes": 92985,
+      "retriedRepresentatives": 0,
+      "threads": 8,
+      "coverageVerified": true,
+      "independentWitnessVerification": true,
+      "bySize": [
+        {
+          "size": 3,
+          "representatives": 40,
+          "normalized": 120,
+          "all": 680
+        },
+        {
+          "size": 4,
+          "representatives": 140,
+          "normalized": 560,
+          "all": 2380
+        },
+        {
+          "size": 5,
+          "representatives": 364,
+          "normalized": 1820,
+          "all": 6188
+        },
+        {
+          "size": 6,
+          "representatives": 728,
+          "normalized": 4368,
+          "all": 12376
+        },
+        {
+          "size": 7,
+          "representatives": 1144,
+          "normalized": 8008,
+          "all": 19448
+        },
+        {
+          "size": 8,
+          "representatives": 1430,
+          "normalized": 11440,
+          "all": 24310
+        },
+        {
+          "size": 9,
+          "representatives": 1430,
+          "normalized": 12870,
+          "all": 24310
+        },
+        {
+          "size": 10,
+          "representatives": 1144,
+          "normalized": 11440,
+          "all": 19448
+        },
+        {
+          "size": 11,
+          "representatives": 728,
+          "normalized": 8008,
+          "all": 12376
+        },
+        {
+          "size": 12,
+          "representatives": 364,
+          "normalized": 4368,
+          "all": 6188
+        },
+        {
+          "size": 13,
+          "representatives": 140,
+          "normalized": 1820,
+          "all": 2380
+        },
+        {
+          "size": 14,
+          "representatives": 40,
+          "normalized": 560,
+          "all": 680
+        },
+        {
+          "size": 15,
+          "representatives": 8,
+          "normalized": 120,
+          "all": 136
+        },
+        {
+          "size": 16,
+          "representatives": 1,
+          "normalized": 16,
+          "all": 17
+        },
+        {
+          "size": 17,
+          "representatives": 1,
+          "normalized": 1,
+          "all": 1
+        }
+      ]
+    },
+    {
+      "group": "Z19",
+      "radices": [
+        19
+      ],
+      "order": 19,
+      "normalizedSubsets": 262125,
+      "allSubsets": 524097,
+      "representatives": 27585,
+      "counterexampleRepresentatives": [],
+      "unresolvedRepresentatives": [],
+      "wallSecondsThisInvocation": 0.0468201,
+      "blockWorkerSeconds": 0.0753513,
+      "searchNodes": 414872,
+      "retriedRepresentatives": 0,
+      "threads": 8,
+      "coverageVerified": true,
+      "independentWitnessVerification": true,
+      "bySize": [
+        {
+          "size": 3,
+          "representatives": 51,
+          "normalized": 153,
+          "all": 969
+        },
+        {
+          "size": 4,
+          "representatives": 204,
+          "normalized": 816,
+          "all": 3876
+        },
+        {
+          "size": 5,
+          "representatives": 612,
+          "normalized": 3060,
+          "all": 11628
+        },
+        {
+          "size": 6,
+          "representatives": 1428,
+          "normalized": 8568,
+          "all": 27132
+        },
+        {
+          "size": 7,
+          "representatives": 2652,
+          "normalized": 18564,
+          "all": 50388
+        },
+        {
+          "size": 8,
+          "representatives": 3978,
+          "normalized": 31824,
+          "all": 75582
+        },
+        {
+          "size": 9,
+          "representatives": 4862,
+          "normalized": 43758,
+          "all": 92378
+        },
+        {
+          "size": 10,
+          "representatives": 4862,
+          "normalized": 48620,
+          "all": 92378
+        },
+        {
+          "size": 11,
+          "representatives": 3978,
+          "normalized": 43758,
+          "all": 75582
+        },
+        {
+          "size": 12,
+          "representatives": 2652,
+          "normalized": 31824,
+          "all": 50388
+        },
+        {
+          "size": 13,
+          "representatives": 1428,
+          "normalized": 18564,
+          "all": 27132
+        },
+        {
+          "size": 14,
+          "representatives": 612,
+          "normalized": 8568,
+          "all": 11628
+        },
+        {
+          "size": 15,
+          "representatives": 204,
+          "normalized": 3060,
+          "all": 3876
+        },
+        {
+          "size": 16,
+          "representatives": 51,
+          "normalized": 816,
+          "all": 969
+        },
+        {
+          "size": 17,
+          "representatives": 9,
+          "normalized": 153,
+          "all": 171
+        },
+        {
+          "size": 18,
+          "representatives": 1,
+          "normalized": 18,
+          "all": 19
+        },
+        {
+          "size": 19,
+          "representatives": 1,
+          "normalized": 1,
+          "all": 1
+        }
+      ]
+    },
+    {
+      "group": "Z21",
+      "radices": [
+        21
+      ],
+      "order": 21,
+      "normalizedSubsets": 1048555,
+      "allSubsets": 2096920,
+      "representatives": 99868,
+      "counterexampleRepresentatives": [],
+      "unresolvedRepresentatives": [],
+      "wallSecondsThisInvocation": 0.0798854,
+      "blockWorkerSeconds": 0.2284007,
+      "searchNodes": 1820029,
+      "retriedRepresentatives": 2,
+      "threads": 8,
+      "coverageVerified": true,
+      "independentWitnessVerification": true,
+      "bySize": [
+        {
+          "size": 3,
+          "representatives": 64,
+          "normalized": 190,
+          "all": 1330
+        },
+        {
+          "size": 4,
+          "representatives": 285,
+          "normalized": 1140,
+          "all": 5985
+        },
+        {
+          "size": 5,
+          "representatives": 969,
+          "normalized": 4845,
+          "all": 20349
+        },
+        {
+          "size": 6,
+          "representatives": 2586,
+          "normalized": 15504,
+          "all": 54264
+        },
+        {
+          "size": 7,
+          "representatives": 5538,
+          "normalized": 38760,
+          "all": 116280
+        },
+        {
+          "size": 8,
+          "representatives": 9690,
+          "normalized": 77520,
+          "all": 203490
+        },
+        {
+          "size": 9,
+          "representatives": 14000,
+          "normalized": 125970,
+          "all": 293930
+        },
+        {
+          "size": 10,
+          "representatives": 16796,
+          "normalized": 167960,
+          "all": 352716
+        },
+        {
+          "size": 11,
+          "representatives": 16796,
+          "normalized": 184756,
+          "all": 352716
+        },
+        {
+          "size": 12,
+          "representatives": 14000,
+          "normalized": 167960,
+          "all": 293930
+        },
+        {
+          "size": 13,
+          "representatives": 9690,
+          "normalized": 125970,
+          "all": 203490
+        },
+        {
+          "size": 14,
+          "representatives": 5538,
+          "normalized": 77520,
+          "all": 116280
+        },
+        {
+          "size": 15,
+          "representatives": 2586,
+          "normalized": 38760,
+          "all": 54264
+        },
+        {
+          "size": 16,
+          "representatives": 969,
+          "normalized": 15504,
+          "all": 20349
+        },
+        {
+          "size": 17,
+          "representatives": 285,
+          "normalized": 4845,
+          "all": 5985
+        },
+        {
+          "size": 18,
+          "representatives": 64,
+          "normalized": 1140,
+          "all": 1330
+        },
+        {
+          "size": 19,
+          "representatives": 10,
+          "normalized": 190,
+          "all": 210
+        },
+        {
+          "size": 20,
+          "representatives": 1,
+          "normalized": 20,
+          "all": 21
+        },
+        {
+          "size": 21,
+          "representatives": 1,
+          "normalized": 1,
+          "all": 1
+        }
+      ]
+    },
+    {
+      "group": "Z23",
+      "radices": [
+        23
+      ],
+      "order": 23,
+      "normalizedSubsets": 4194281,
+      "allSubsets": 8388331,
+      "representatives": 364711,
+      "counterexampleRepresentatives": [],
+      "unresolvedRepresentatives": [],
+      "wallSecondsThisInvocation": 0.5438231,
+      "blockWorkerSeconds": 0.9594705,
+      "searchNodes": 7865431,
+      "retriedRepresentatives": 23,
+      "threads": 8,
+      "coverageVerified": true,
+      "independentWitnessVerification": true,
+      "bySize": [
+        {
+          "size": 3,
+          "representatives": 77,
+          "normalized": 231,
+          "all": 1771
+        },
+        {
+          "size": 4,
+          "representatives": 385,
+          "normalized": 1540,
+          "all": 8855
+        },
+        {
+          "size": 5,
+          "representatives": 1463,
+          "normalized": 7315,
+          "all": 33649
+        },
+        {
+          "size": 6,
+          "representatives": 4389,
+          "normalized": 26334,
+          "all": 100947
+        },
+        {
+          "size": 7,
+          "representatives": 10659,
+          "normalized": 74613,
+          "all": 245157
+        },
+        {
+          "size": 8,
+          "representatives": 21318,
+          "normalized": 170544,
+          "all": 490314
+        },
+        {
+          "size": 9,
+          "representatives": 35530,
+          "normalized": 319770,
+          "all": 817190
+        },
+        {
+          "size": 10,
+          "representatives": 49742,
+          "normalized": 497420,
+          "all": 1144066
+        },
+        {
+          "size": 11,
+          "representatives": 58786,
+          "normalized": 646646,
+          "all": 1352078
+        },
+        {
+          "size": 12,
+          "representatives": 58786,
+          "normalized": 705432,
+          "all": 1352078
+        },
+        {
+          "size": 13,
+          "representatives": 49742,
+          "normalized": 646646,
+          "all": 1144066
+        },
+        {
+          "size": 14,
+          "representatives": 35530,
+          "normalized": 497420,
+          "all": 817190
+        },
+        {
+          "size": 15,
+          "representatives": 21318,
+          "normalized": 319770,
+          "all": 490314
+        },
+        {
+          "size": 16,
+          "representatives": 10659,
+          "normalized": 170544,
+          "all": 245157
+        },
+        {
+          "size": 17,
+          "representatives": 4389,
+          "normalized": 74613,
+          "all": 100947
+        },
+        {
+          "size": 18,
+          "representatives": 1463,
+          "normalized": 26334,
+          "all": 33649
+        },
+        {
+          "size": 19,
+          "representatives": 385,
+          "normalized": 7315,
+          "all": 8855
+        },
+        {
+          "size": 20,
+          "representatives": 77,
+          "normalized": 1540,
+          "all": 1771
+        },
+        {
+          "size": 21,
+          "representatives": 11,
+          "normalized": 231,
+          "all": 253
+        },
+        {
+          "size": 22,
+          "representatives": 1,
+          "normalized": 22,
+          "all": 23
+        },
+        {
+          "size": 23,
+          "representatives": 1,
+          "normalized": 1,
+          "all": 1
+        }
+      ]
+    },
+    {
+      "group": "Z25",
+      "radices": [
+        25
+      ],
+      "order": 25,
+      "normalizedSubsets": 16777191,
+      "allSubsets": 33554106,
+      "representatives": 1342170,
+      "counterexampleRepresentatives": [],
+      "unresolvedRepresentatives": [],
+      "wallSecondsThisInvocation": 0.7174295,
+      "blockWorkerSeconds": 1.5866182,
+      "searchNodes": 33833938,
+      "retriedRepresentatives": 229,
+      "threads": 8,
+      "coverageVerified": true,
+      "independentWitnessVerification": true,
+      "bySize": [
+        {
+          "size": 3,
+          "representatives": 92,
+          "normalized": 276,
+          "all": 2300
+        },
+        {
+          "size": 4,
+          "representatives": 506,
+          "normalized": 2024,
+          "all": 12650
+        },
+        {
+          "size": 5,
+          "representatives": 2126,
+          "normalized": 10626,
+          "all": 53130
+        },
+        {
+          "size": 6,
+          "representatives": 7084,
+          "normalized": 42504,
+          "all": 177100
+        },
+        {
+          "size": 7,
+          "representatives": 19228,
+          "normalized": 134596,
+          "all": 480700
+        },
+        {
+          "size": 8,
+          "representatives": 43263,
+          "normalized": 346104,
+          "all": 1081575
+        },
+        {
+          "size": 9,
+          "representatives": 81719,
+          "normalized": 735471,
+          "all": 2042975
+        },
+        {
+          "size": 10,
+          "representatives": 130752,
+          "normalized": 1307504,
+          "all": 3268760
+        },
+        {
+          "size": 11,
+          "representatives": 178296,
+          "normalized": 1961256,
+          "all": 4457400
+        },
+        {
+          "size": 12,
+          "representatives": 208012,
+          "normalized": 2496144,
+          "all": 5200300
+        },
+        {
+          "size": 13,
+          "representatives": 208012,
+          "normalized": 2704156,
+          "all": 5200300
+        },
+        {
+          "size": 14,
+          "representatives": 178296,
+          "normalized": 2496144,
+          "all": 4457400
+        },
+        {
+          "size": 15,
+          "representatives": 130752,
+          "normalized": 1961256,
+          "all": 3268760
+        },
+        {
+          "size": 16,
+          "representatives": 81719,
+          "normalized": 1307504,
+          "all": 2042975
+        },
+        {
+          "size": 17,
+          "representatives": 43263,
+          "normalized": 735471,
+          "all": 1081575
+        },
+        {
+          "size": 18,
+          "representatives": 19228,
+          "normalized": 346104,
+          "all": 480700
+        },
+        {
+          "size": 19,
+          "representatives": 7084,
+          "normalized": 134596,
+          "all": 177100
+        },
+        {
+          "size": 20,
+          "representatives": 2126,
+          "normalized": 42504,
+          "all": 53130
+        },
+        {
+          "size": 21,
+          "representatives": 506,
+          "normalized": 10626,
+          "all": 12650
+        },
+        {
+          "size": 22,
+          "representatives": 92,
+          "normalized": 2024,
+          "all": 2300
+        },
+        {
+          "size": 23,
+          "representatives": 12,
+          "normalized": 276,
+          "all": 300
+        },
+        {
+          "size": 24,
+          "representatives": 1,
+          "normalized": 24,
+          "all": 25
+        },
+        {
+          "size": 25,
+          "representatives": 1,
+          "normalized": 1,
+          "all": 1
+        }
+      ]
+    },
+    {
+      "group": "Z5xZ5",
+      "radices": [
+        5,
+        5
+      ],
+      "order": 25,
+      "normalizedSubsets": 16777191,
+      "allSubsets": 33554106,
+      "representatives": 1342194,
+      "counterexampleRepresentatives": [],
+      "unresolvedRepresentatives": [],
+      "wallSecondsThisInvocation": 0.7032928,
+      "blockWorkerSeconds": 1.9473648999999995,
+      "searchNodes": 33010458,
+      "retriedRepresentatives": 74,
+      "threads": 8,
+      "coverageVerified": true,
+      "independentWitnessVerification": true,
+      "bySize": [
+        {
+          "size": 3,
+          "representatives": 92,
+          "normalized": 276,
+          "all": 2300
+        },
+        {
+          "size": 4,
+          "representatives": 506,
+          "normalized": 2024,
+          "all": 12650
+        },
+        {
+          "size": 5,
+          "representatives": 2130,
+          "normalized": 10626,
+          "all": 53130
+        },
+        {
+          "size": 6,
+          "representatives": 7084,
+          "normalized": 42504,
+          "all": 177100
+        },
+        {
+          "size": 7,
+          "representatives": 19228,
+          "normalized": 134596,
+          "all": 480700
+        },
+        {
+          "size": 8,
+          "representatives": 43263,
+          "normalized": 346104,
+          "all": 1081575
+        },
+        {
+          "size": 9,
+          "representatives": 81719,
+          "normalized": 735471,
+          "all": 2042975
+        },
+        {
+          "size": 10,
+          "representatives": 130760,
+          "normalized": 1307504,
+          "all": 3268760
+        },
+        {
+          "size": 11,
+          "representatives": 178296,
+          "normalized": 1961256,
+          "all": 4457400
+        },
+        {
+          "size": 12,
+          "representatives": 208012,
+          "normalized": 2496144,
+          "all": 5200300
+        },
+        {
+          "size": 13,
+          "representatives": 208012,
+          "normalized": 2704156,
+          "all": 5200300
+        },
+        {
+          "size": 14,
+          "representatives": 178296,
+          "normalized": 2496144,
+          "all": 4457400
+        },
+        {
+          "size": 15,
+          "representatives": 130760,
+          "normalized": 1961256,
+          "all": 3268760
+        },
+        {
+          "size": 16,
+          "representatives": 81719,
+          "normalized": 1307504,
+          "all": 2042975
+        },
+        {
+          "size": 17,
+          "representatives": 43263,
+          "normalized": 735471,
+          "all": 1081575
+        },
+        {
+          "size": 18,
+          "representatives": 19228,
+          "normalized": 346104,
+          "all": 480700
+        },
+        {
+          "size": 19,
+          "representatives": 7084,
+          "normalized": 134596,
+          "all": 177100
+        },
+        {
+          "size": 20,
+          "representatives": 2130,
+          "normalized": 42504,
+          "all": 53130
+        },
+        {
+          "size": 21,
+          "representatives": 506,
+          "normalized": 10626,
+          "all": 12650
+        },
+        {
+          "size": 22,
+          "representatives": 92,
+          "normalized": 2024,
+          "all": 2300
+        },
+        {
+          "size": 23,
+          "representatives": 12,
+          "normalized": 276,
+          "all": 300
+        },
+        {
+          "size": 24,
+          "representatives": 1,
+          "normalized": 24,
+          "all": 25
+        },
+        {
+          "size": 25,
+          "representatives": 1,
+          "normalized": 1,
+          "all": 1
+        }
+      ]
+    },
+    {
+      "group": "Z27",
+      "radices": [
+        27
+      ],
+      "order": 27,
+      "normalizedSubsets": 67108837,
+      "allSubsets": 134217349,
+      "representatives": 4971053,
+      "counterexampleRepresentatives": [],
+      "unresolvedRepresentatives": [],
+      "wallSecondsThisInvocation": 1.6077039,
+      "blockWorkerSeconds": 9.774996900000001,
+      "searchNodes": 143165989,
+      "retriedRepresentatives": 1840,
+      "threads": 8,
+      "coverageVerified": true,
+      "independentWitnessVerification": true,
+      "bySize": [
+        {
+          "size": 3,
+          "representatives": 109,
+          "normalized": 325,
+          "all": 2925
+        },
+        {
+          "size": 4,
+          "representatives": 650,
+          "normalized": 2600,
+          "all": 17550
+        },
+        {
+          "size": 5,
+          "representatives": 2990,
+          "normalized": 14950,
+          "all": 80730
+        },
+        {
+          "size": 6,
+          "representatives": 10966,
+          "normalized": 65780,
+          "all": 296010
+        },
+        {
+          "size": 7,
+          "representatives": 32890,
+          "normalized": 230230,
+          "all": 888030
+        },
+        {
+          "size": 8,
+          "representatives": 82225,
+          "normalized": 657800,
+          "all": 2220075
+        },
+        {
+          "size": 9,
+          "representatives": 173593,
+          "normalized": 1562275,
+          "all": 4686825
+        },
+        {
+          "size": 10,
+          "representatives": 312455,
+          "normalized": 3124550,
+          "all": 8436285
+        },
+        {
+          "size": 11,
+          "representatives": 482885,
+          "normalized": 5311735,
+          "all": 13037895
+        },
+        {
+          "size": 12,
+          "representatives": 643856,
+          "normalized": 7726160,
+          "all": 17383860
+        },
+        {
+          "size": 13,
+          "representatives": 742900,
+          "normalized": 9657700,
+          "all": 20058300
+        },
+        {
+          "size": 14,
+          "representatives": 742900,
+          "normalized": 10400600,
+          "all": 20058300
+        },
+        {
+          "size": 15,
+          "representatives": 643856,
+          "normalized": 9657700,
+          "all": 17383860
+        },
+        {
+          "size": 16,
+          "representatives": 482885,
+          "normalized": 7726160,
+          "all": 13037895
+        },
+        {
+          "size": 17,
+          "representatives": 312455,
+          "normalized": 5311735,
+          "all": 8436285
+        },
+        {
+          "size": 18,
+          "representatives": 173593,
+          "normalized": 3124550,
+          "all": 4686825
+        },
+        {
+          "size": 19,
+          "representatives": 82225,
+          "normalized": 1562275,
+          "all": 2220075
+        },
+        {
+          "size": 20,
+          "representatives": 32890,
+          "normalized": 657800,
+          "all": 888030
+        },
+        {
+          "size": 21,
+          "representatives": 10966,
+          "normalized": 230230,
+          "all": 296010
+        },
+        {
+          "size": 22,
+          "representatives": 2990,
+          "normalized": 65780,
+          "all": 80730
+        },
+        {
+          "size": 23,
+          "representatives": 650,
+          "normalized": 14950,
+          "all": 17550
+        },
+        {
+          "size": 24,
+          "representatives": 109,
+          "normalized": 2600,
+          "all": 2925
+        },
+        {
+          "size": 25,
+          "representatives": 13,
+          "normalized": 325,
+          "all": 351
+        },
+        {
+          "size": 26,
+          "representatives": 1,
+          "normalized": 26,
+          "all": 27
+        },
+        {
+          "size": 27,
+          "representatives": 1,
+          "normalized": 1,
+          "all": 1
+        }
+      ]
+    },
+    {
+      "group": "Z3xZ3xZ3",
+      "radices": [
+        3,
+        3,
+        3
+      ],
+      "order": 27,
+      "normalizedSubsets": 67108837,
+      "allSubsets": 134217349,
+      "representatives": 4971505,
+      "counterexampleRepresentatives": [],
+      "unresolvedRepresentatives": [],
+      "wallSecondsThisInvocation": 1.9071574,
+      "blockWorkerSeconds": 11.673111300000008,
+      "searchNodes": 131474314,
+      "retriedRepresentatives": 642,
+      "threads": 8,
+      "coverageVerified": true,
+      "independentWitnessVerification": true,
+      "bySize": [
+        {
+          "size": 3,
+          "representatives": 117,
+          "normalized": 325,
+          "all": 2925
+        },
+        {
+          "size": 4,
+          "representatives": 650,
+          "normalized": 2600,
+          "all": 17550
+        },
+        {
+          "size": 5,
+          "representatives": 2990,
+          "normalized": 14950,
+          "all": 80730
+        },
+        {
+          "size": 6,
+          "representatives": 10998,
+          "normalized": 65780,
+          "all": 296010
+        },
+        {
+          "size": 7,
+          "representatives": 32890,
+          "normalized": 230230,
+          "all": 888030
+        },
+        {
+          "size": 8,
+          "representatives": 82225,
+          "normalized": 657800,
+          "all": 2220075
+        },
+        {
+          "size": 9,
+          "representatives": 173667,
+          "normalized": 1562275,
+          "all": 4686825
+        },
+        {
+          "size": 10,
+          "representatives": 312455,
+          "normalized": 3124550,
+          "all": 8436285
+        },
+        {
+          "size": 11,
+          "representatives": 482885,
+          "normalized": 5311735,
+          "all": 13037895
+        },
+        {
+          "size": 12,
+          "representatives": 643968,
+          "normalized": 7726160,
+          "all": 17383860
+        },
+        {
+          "size": 13,
+          "representatives": 742900,
+          "normalized": 9657700,
+          "all": 20058300
+        },
+        {
+          "size": 14,
+          "representatives": 742900,
+          "normalized": 10400600,
+          "all": 20058300
+        },
+        {
+          "size": 15,
+          "representatives": 643968,
+          "normalized": 9657700,
+          "all": 17383860
+        },
+        {
+          "size": 16,
+          "representatives": 482885,
+          "normalized": 7726160,
+          "all": 13037895
+        },
+        {
+          "size": 17,
+          "representatives": 312455,
+          "normalized": 5311735,
+          "all": 8436285
+        },
+        {
+          "size": 18,
+          "representatives": 173667,
+          "normalized": 3124550,
+          "all": 4686825
+        },
+        {
+          "size": 19,
+          "representatives": 82225,
+          "normalized": 1562275,
+          "all": 2220075
+        },
+        {
+          "size": 20,
+          "representatives": 32890,
+          "normalized": 657800,
+          "all": 888030
+        },
+        {
+          "size": 21,
+          "representatives": 10998,
+          "normalized": 230230,
+          "all": 296010
+        },
+        {
+          "size": 22,
+          "representatives": 2990,
+          "normalized": 65780,
+          "all": 80730
+        },
+        {
+          "size": 23,
+          "representatives": 650,
+          "normalized": 14950,
+          "all": 17550
+        },
+        {
+          "size": 24,
+          "representatives": 117,
+          "normalized": 2600,
+          "all": 2925
+        },
+        {
+          "size": 25,
+          "representatives": 13,
+          "normalized": 325,
+          "all": 351
+        },
+        {
+          "size": 26,
+          "representatives": 1,
+          "normalized": 26,
+          "all": 27
+        },
+        {
+          "size": 27,
+          "representatives": 1,
+          "normalized": 1,
+          "all": 1
+        }
+      ]
+    },
+    {
+      "group": "Z3xZ9",
+      "radices": [
+        3,
+        9
+      ],
+      "order": 27,
+      "normalizedSubsets": 67108837,
+      "allSubsets": 134217349,
+      "representatives": 4971169,
+      "counterexampleRepresentatives": [],
+      "unresolvedRepresentatives": [],
+      "wallSecondsThisInvocation": 1.9596228,
+      "blockWorkerSeconds": 12.302500299999997,
+      "searchNodes": 138340459,
+      "retriedRepresentatives": 716,
+      "threads": 8,
+      "coverageVerified": true,
+      "independentWitnessVerification": true,
+      "bySize": [
+        {
+          "size": 3,
+          "representatives": 111,
+          "normalized": 325,
+          "all": 2925
+        },
+        {
+          "size": 4,
+          "representatives": 650,
+          "normalized": 2600,
+          "all": 17550
+        },
+        {
+          "size": 5,
+          "representatives": 2990,
+          "normalized": 14950,
+          "all": 80730
+        },
+        {
+          "size": 6,
+          "representatives": 10974,
+          "normalized": 65780,
+          "all": 296010
+        },
+        {
+          "size": 7,
+          "representatives": 32890,
+          "normalized": 230230,
+          "all": 888030
+        },
+        {
+          "size": 8,
+          "representatives": 82225,
+          "normalized": 657800,
+          "all": 2220075
+        },
+        {
+          "size": 9,
+          "representatives": 173613,
+          "normalized": 1562275,
+          "all": 4686825
+        },
+        {
+          "size": 10,
+          "representatives": 312455,
+          "normalized": 3124550,
+          "all": 8436285
+        },
+        {
+          "size": 11,
+          "representatives": 482885,
+          "normalized": 5311735,
+          "all": 13037895
+        },
+        {
+          "size": 12,
+          "representatives": 643884,
+          "normalized": 7726160,
+          "all": 17383860
+        },
+        {
+          "size": 13,
+          "representatives": 742900,
+          "normalized": 9657700,
+          "all": 20058300
+        },
+        {
+          "size": 14,
+          "representatives": 742900,
+          "normalized": 10400600,
+          "all": 20058300
+        },
+        {
+          "size": 15,
+          "representatives": 643884,
+          "normalized": 9657700,
+          "all": 17383860
+        },
+        {
+          "size": 16,
+          "representatives": 482885,
+          "normalized": 7726160,
+          "all": 13037895
+        },
+        {
+          "size": 17,
+          "representatives": 312455,
+          "normalized": 5311735,
+          "all": 8436285
+        },
+        {
+          "size": 18,
+          "representatives": 173613,
+          "normalized": 3124550,
+          "all": 4686825
+        },
+        {
+          "size": 19,
+          "representatives": 82225,
+          "normalized": 1562275,
+          "all": 2220075
+        },
+        {
+          "size": 20,
+          "representatives": 32890,
+          "normalized": 657800,
+          "all": 888030
+        },
+        {
+          "size": 21,
+          "representatives": 10974,
+          "normalized": 230230,
+          "all": 296010
+        },
+        {
+          "size": 22,
+          "representatives": 2990,
+          "normalized": 65780,
+          "all": 80730
+        },
+        {
+          "size": 23,
+          "representatives": 650,
+          "normalized": 14950,
+          "all": 17550
+        },
+        {
+          "size": 24,
+          "representatives": 111,
+          "normalized": 2600,
+          "all": 2925
+        },
+        {
+          "size": 25,
+          "representatives": 13,
+          "normalized": 325,
+          "all": 351
+        },
+        {
+          "size": 26,
+          "representatives": 1,
+          "normalized": 26,
+          "all": 27
+        },
+        {
+          "size": 27,
+          "representatives": 1,
+          "normalized": 1,
+          "all": 1
+        }
+      ]
+    },
+    {
+      "group": "Z29",
+      "radices": [
+        29
+      ],
+      "order": 29,
+      "normalizedSubsets": 268435427,
+      "allSubsets": 536870476,
+      "representatives": 18512776,
+      "counterexampleRepresentatives": [],
+      "unresolvedRepresentatives": [],
+      "wallSecondsThisInvocation": 7.2226789,
+      "blockWorkerSeconds": 46.66264120000008,
+      "searchNodes": 596989901,
+      "retriedRepresentatives": 11472,
+      "threads": 8,
+      "coverageVerified": true,
+      "independentWitnessVerification": true,
+      "bySize": [
+        {
+          "size": 3,
+          "representatives": 126,
+          "normalized": 378,
+          "all": 3654
+        },
+        {
+          "size": 4,
+          "representatives": 819,
+          "normalized": 3276,
+          "all": 23751
+        },
+        {
+          "size": 5,
+          "representatives": 4095,
+          "normalized": 20475,
+          "all": 118755
+        },
+        {
+          "size": 6,
+          "representatives": 16380,
+          "normalized": 98280,
+          "all": 475020
+        },
+        {
+          "size": 7,
+          "representatives": 53820,
+          "normalized": 376740,
+          "all": 1560780
+        },
+        {
+          "size": 8,
+          "representatives": 148005,
+          "normalized": 1184040,
+          "all": 4292145
+        },
+        {
+          "size": 9,
+          "representatives": 345345,
+          "normalized": 3108105,
+          "all": 10015005
+        },
+        {
+          "size": 10,
+          "representatives": 690690,
+          "normalized": 6906900,
+          "all": 20030010
+        },
+        {
+          "size": 11,
+          "representatives": 1193010,
+          "normalized": 13123110,
+          "all": 34597290
+        },
+        {
+          "size": 12,
+          "representatives": 1789515,
+          "normalized": 21474180,
+          "all": 51895935
+        },
+        {
+          "size": 13,
+          "representatives": 2340135,
+          "normalized": 30421755,
+          "all": 67863915
+        },
+        {
+          "size": 14,
+          "representatives": 2674440,
+          "normalized": 37442160,
+          "all": 77558760
+        },
+        {
+          "size": 15,
+          "representatives": 2674440,
+          "normalized": 40116600,
+          "all": 77558760
+        },
+        {
+          "size": 16,
+          "representatives": 2340135,
+          "normalized": 37442160,
+          "all": 67863915
+        },
+        {
+          "size": 17,
+          "representatives": 1789515,
+          "normalized": 30421755,
+          "all": 51895935
+        },
+        {
+          "size": 18,
+          "representatives": 1193010,
+          "normalized": 21474180,
+          "all": 34597290
+        },
+        {
+          "size": 19,
+          "representatives": 690690,
+          "normalized": 13123110,
+          "all": 20030010
+        },
+        {
+          "size": 20,
+          "representatives": 345345,
+          "normalized": 6906900,
+          "all": 10015005
+        },
+        {
+          "size": 21,
+          "representatives": 148005,
+          "normalized": 3108105,
+          "all": 4292145
+        },
+        {
+          "size": 22,
+          "representatives": 53820,
+          "normalized": 1184040,
+          "all": 1560780
+        },
+        {
+          "size": 23,
+          "representatives": 16380,
+          "normalized": 376740,
+          "all": 475020
+        },
+        {
+          "size": 24,
+          "representatives": 4095,
+          "normalized": 98280,
+          "all": 118755
+        },
+        {
+          "size": 25,
+          "representatives": 819,
+          "normalized": 20475,
+          "all": 23751
+        },
+        {
+          "size": 26,
+          "representatives": 126,
+          "normalized": 3276,
+          "all": 3654
+        },
+        {
+          "size": 27,
+          "representatives": 14,
+          "normalized": 378,
+          "all": 406
+        },
+        {
+          "size": 28,
+          "representatives": 1,
+          "normalized": 28,
+          "all": 29
+        },
+        {
+          "size": 29,
+          "representatives": 1,
+          "normalized": 1,
+          "all": 1
+        }
+      ]
+    },
+    {
+      "group": "Z31",
+      "radices": [
+        31
+      ],
+      "order": 31,
+      "normalizedSubsets": 1073741793,
+      "allSubsets": 2147483151,
+      "representatives": 69273651,
+      "counterexampleRepresentatives": [],
+      "unresolvedRepresentatives": [],
+      "wallSecondsThisInvocation": 29.3289832,
+      "blockWorkerSeconds": 187.9402245000003,
+      "searchNodes": 2440953917,
+      "retriedRepresentatives": 59338,
+      "threads": 8,
+      "coverageVerified": true,
+      "independentWitnessVerification": true,
+      "bySize": [
+        {
+          "size": 3,
+          "representatives": 145,
+          "normalized": 435,
+          "all": 4495
+        },
+        {
+          "size": 4,
+          "representatives": 1015,
+          "normalized": 4060,
+          "all": 31465
+        },
+        {
+          "size": 5,
+          "representatives": 5481,
+          "normalized": 27405,
+          "all": 169911
+        },
+        {
+          "size": 6,
+          "representatives": 23751,
+          "normalized": 142506,
+          "all": 736281
+        },
+        {
+          "size": 7,
+          "representatives": 84825,
+          "normalized": 593775,
+          "all": 2629575
+        },
+        {
+          "size": 8,
+          "representatives": 254475,
+          "normalized": 2035800,
+          "all": 7888725
+        },
+        {
+          "size": 9,
+          "representatives": 650325,
+          "normalized": 5852925,
+          "all": 20160075
+        },
+        {
+          "size": 10,
+          "representatives": 1430715,
+          "normalized": 14307150,
+          "all": 44352165
+        },
+        {
+          "size": 11,
+          "representatives": 2731365,
+          "normalized": 30045015,
+          "all": 84672315
+        },
+        {
+          "size": 12,
+          "representatives": 4552275,
+          "normalized": 54627300,
+          "all": 141120525
+        },
+        {
+          "size": 13,
+          "representatives": 6653325,
+          "normalized": 86493225,
+          "all": 206253075
+        },
+        {
+          "size": 14,
+          "representatives": 8554275,
+          "normalized": 119759850,
+          "all": 265182525
+        },
+        {
+          "size": 15,
+          "representatives": 9694845,
+          "normalized": 145422675,
+          "all": 300540195
+        },
+        {
+          "size": 16,
+          "representatives": 9694845,
+          "normalized": 155117520,
+          "all": 300540195
+        },
+        {
+          "size": 17,
+          "representatives": 8554275,
+          "normalized": 145422675,
+          "all": 265182525
+        },
+        {
+          "size": 18,
+          "representatives": 6653325,
+          "normalized": 119759850,
+          "all": 206253075
+        },
+        {
+          "size": 19,
+          "representatives": 4552275,
+          "normalized": 86493225,
+          "all": 141120525
+        },
+        {
+          "size": 20,
+          "representatives": 2731365,
+          "normalized": 54627300,
+          "all": 84672315
+        },
+        {
+          "size": 21,
+          "representatives": 1430715,
+          "normalized": 30045015,
+          "all": 44352165
+        },
+        {
+          "size": 22,
+          "representatives": 650325,
+          "normalized": 14307150,
+          "all": 20160075
+        },
+        {
+          "size": 23,
+          "representatives": 254475,
+          "normalized": 5852925,
+          "all": 7888725
+        },
+        {
+          "size": 24,
+          "representatives": 84825,
+          "normalized": 2035800,
+          "all": 2629575
+        },
+        {
+          "size": 25,
+          "representatives": 23751,
+          "normalized": 593775,
+          "all": 736281
+        },
+        {
+          "size": 26,
+          "representatives": 5481,
+          "normalized": 142506,
+          "all": 169911
+        },
+        {
+          "size": 27,
+          "representatives": 1015,
+          "normalized": 27405,
+          "all": 31465
+        },
+        {
+          "size": 28,
+          "representatives": 145,
+          "normalized": 4060,
+          "all": 4495
+        },
+        {
+          "size": 29,
+          "representatives": 15,
+          "normalized": 435,
+          "all": 465
+        },
+        {
+          "size": 30,
+          "representatives": 1,
+          "normalized": 30,
+          "all": 31
+        },
+        {
+          "size": 31,
+          "representatives": 1,
+          "normalized": 1,
+          "all": 1
+        }
+      ]
+    },
+    {
+      "group": "Z33",
+      "radices": [
+        33
+      ],
+      "order": 33,
+      "chunkSize": 1048576,
+      "maskBits": 64,
+      "normalizedSubsets": 4294967263,
+      "allSubsets": 8589934030,
+      "representatives": 260301158,
+      "counterexampleRepresentatives": [],
+      "unresolvedRepresentatives": [],
+      "wallSecondsThisInvocation": 91.7869009,
+      "blockWorkerSeconds": 707.6302767999985,
+      "searchNodes": 9855324614,
+      "retriedRepresentatives": 286221,
+      "threads": 8,
+      "coverageVerified": true,
+      "independentWitnessVerification": true,
+      "bySize": [
+        {
+          "size": 3,
+          "representatives": 166,
+          "normalized": 496,
+          "all": 5456
+        },
+        {
+          "size": 4,
+          "representatives": 1240,
+          "normalized": 4960,
+          "all": 40920
+        },
+        {
+          "size": 5,
+          "representatives": 7192,
+          "normalized": 35960,
+          "all": 237336
+        },
+        {
+          "size": 6,
+          "representatives": 33566,
+          "normalized": 201376,
+          "all": 1107568
+        },
+        {
+          "size": 7,
+          "representatives": 129456,
+          "normalized": 906192,
+          "all": 4272048
+        },
+        {
+          "size": 8,
+          "representatives": 420732,
+          "normalized": 3365856,
+          "all": 13884156
+        },
+        {
+          "size": 9,
+          "representatives": 1168710,
+          "normalized": 10518300,
+          "all": 38567100
+        },
+        {
+          "size": 10,
+          "representatives": 2804880,
+          "normalized": 28048800,
+          "all": 92561040
+        },
+        {
+          "size": 11,
+          "representatives": 5864750,
+          "normalized": 64512240,
+          "all": 193536720
+        },
+        {
+          "size": 12,
+          "representatives": 10752060,
+          "normalized": 129024480,
+          "all": 354817320
+        },
+        {
+          "size": 13,
+          "representatives": 17368680,
+          "normalized": 225792840,
+          "all": 573166440
+        },
+        {
+          "size": 14,
+          "representatives": 24812400,
+          "normalized": 347373600,
+          "all": 818809200
+        },
+        {
+          "size": 15,
+          "representatives": 31429068,
+          "normalized": 471435600,
+          "all": 1037158320
+        },
+        {
+          "size": 16,
+          "representatives": 35357670,
+          "normalized": 565722720,
+          "all": 1166803110
+        },
+        {
+          "size": 17,
+          "representatives": 35357670,
+          "normalized": 601080390,
+          "all": 1166803110
+        },
+        {
+          "size": 18,
+          "representatives": 31429068,
+          "normalized": 565722720,
+          "all": 1037158320
+        },
+        {
+          "size": 19,
+          "representatives": 24812400,
+          "normalized": 471435600,
+          "all": 818809200
+        },
+        {
+          "size": 20,
+          "representatives": 17368680,
+          "normalized": 347373600,
+          "all": 573166440
+        },
+        {
+          "size": 21,
+          "representatives": 10752060,
+          "normalized": 225792840,
+          "all": 354817320
+        },
+        {
+          "size": 22,
+          "representatives": 5864750,
+          "normalized": 129024480,
+          "all": 193536720
+        },
+        {
+          "size": 23,
+          "representatives": 2804880,
+          "normalized": 64512240,
+          "all": 92561040
+        },
+        {
+          "size": 24,
+          "representatives": 1168710,
+          "normalized": 28048800,
+          "all": 38567100
+        },
+        {
+          "size": 25,
+          "representatives": 420732,
+          "normalized": 10518300,
+          "all": 13884156
+        },
+        {
+          "size": 26,
+          "representatives": 129456,
+          "normalized": 3365856,
+          "all": 4272048
+        },
+        {
+          "size": 27,
+          "representatives": 33566,
+          "normalized": 906192,
+          "all": 1107568
+        },
+        {
+          "size": 28,
+          "representatives": 7192,
+          "normalized": 201376,
+          "all": 237336
+        },
+        {
+          "size": 29,
+          "representatives": 1240,
+          "normalized": 35960,
+          "all": 40920
+        },
+        {
+          "size": 30,
+          "representatives": 166,
+          "normalized": 4960,
+          "all": 5456
+        },
+        {
+          "size": 31,
+          "representatives": 16,
+          "normalized": 496,
+          "all": 528
+        },
+        {
+          "size": 32,
+          "representatives": 1,
+          "normalized": 32,
+          "all": 33
+        },
+        {
+          "size": 33,
+          "representatives": 1,
+          "normalized": 1,
+          "all": 1
+        }
+      ]
+    },
+    {
+      "group": "Z35",
+      "radices": [
+        35
+      ],
+      "order": 35,
+      "chunkSize": 1048576,
+      "maskBits": 64,
+      "normalizedSubsets": 17179869149,
+      "allSubsets": 34359737737,
+      "representatives": 981706813,
+      "counterexampleRepresentatives": [],
+      "unresolvedRepresentatives": [],
+      "wallSecondsThisInvocation": 357.5302695,
+      "blockWorkerSeconds": 2821.944533300001,
+      "searchNodes": 39316630215,
+      "retriedRepresentatives": 1245258,
+      "threads": 8,
+      "coverageVerified": true,
+      "independentWitnessVerification": true,
+      "bySize": [
+        {
+          "size": 3,
+          "representatives": 187,
+          "normalized": 561,
+          "all": 6545
+        },
+        {
+          "size": 4,
+          "representatives": 1496,
+          "normalized": 5984,
+          "all": 52360
+        },
+        {
+          "size": 5,
+          "representatives": 9276,
+          "normalized": 46376,
+          "all": 324632
+        },
+        {
+          "size": 6,
+          "representatives": 46376,
+          "normalized": 278256,
+          "all": 1623160
+        },
+        {
+          "size": 7,
+          "representatives": 192130,
+          "normalized": 1344904,
+          "all": 6724520
+        },
+        {
+          "size": 8,
+          "representatives": 672452,
+          "normalized": 5379616,
+          "all": 23535820
+        },
+        {
+          "size": 9,
+          "representatives": 2017356,
+          "normalized": 18156204,
+          "all": 70607460
+        },
+        {
+          "size": 10,
+          "representatives": 5245128,
+          "normalized": 52451256,
+          "all": 183579396
+        },
+        {
+          "size": 11,
+          "representatives": 11920740,
+          "normalized": 131128140,
+          "all": 417225900
+        },
+        {
+          "size": 12,
+          "representatives": 23841480,
+          "normalized": 286097760,
+          "all": 834451800
+        },
+        {
+          "size": 13,
+          "representatives": 42181080,
+          "normalized": 548354040,
+          "all": 1476337800
+        },
+        {
+          "size": 14,
+          "representatives": 66284556,
+          "normalized": 927983760,
+          "all": 2319959400
+        },
+        {
+          "size": 15,
+          "representatives": 92798380,
+          "normalized": 1391975640,
+          "all": 3247943160
+        },
+        {
+          "size": 16,
+          "representatives": 115997970,
+          "normalized": 1855967520,
+          "all": 4059928950
+        },
+        {
+          "size": 17,
+          "representatives": 129644790,
+          "normalized": 2203961430,
+          "all": 4537567650
+        },
+        {
+          "size": 18,
+          "representatives": 129644790,
+          "normalized": 2333606220,
+          "all": 4537567650
+        },
+        {
+          "size": 19,
+          "representatives": 115997970,
+          "normalized": 2203961430,
+          "all": 4059928950
+        },
+        {
+          "size": 20,
+          "representatives": 92798380,
+          "normalized": 1855967520,
+          "all": 3247943160
+        },
+        {
+          "size": 21,
+          "representatives": 66284556,
+          "normalized": 1391975640,
+          "all": 2319959400
+        },
+        {
+          "size": 22,
+          "representatives": 42181080,
+          "normalized": 927983760,
+          "all": 1476337800
+        },
+        {
+          "size": 23,
+          "representatives": 23841480,
+          "normalized": 548354040,
+          "all": 834451800
+        },
+        {
+          "size": 24,
+          "representatives": 11920740,
+          "normalized": 286097760,
+          "all": 417225900
+        },
+        {
+          "size": 25,
+          "representatives": 5245128,
+          "normalized": 131128140,
+          "all": 183579396
+        },
+        {
+          "size": 26,
+          "representatives": 2017356,
+          "normalized": 52451256,
+          "all": 70607460
+        },
+        {
+          "size": 27,
+          "representatives": 672452,
+          "normalized": 18156204,
+          "all": 23535820
+        },
+        {
+          "size": 28,
+          "representatives": 192130,
+          "normalized": 5379616,
+          "all": 6724520
+        },
+        {
+          "size": 29,
+          "representatives": 46376,
+          "normalized": 1344904,
+          "all": 1623160
+        },
+        {
+          "size": 30,
+          "representatives": 9276,
+          "normalized": 278256,
+          "all": 324632
+        },
+        {
+          "size": 31,
+          "representatives": 1496,
+          "normalized": 46376,
+          "all": 52360
+        },
+        {
+          "size": 32,
+          "representatives": 187,
+          "normalized": 5984,
+          "all": 6545
+        },
+        {
+          "size": 33,
+          "representatives": 17,
+          "normalized": 561,
+          "all": 595
+        },
+        {
+          "size": 34,
+          "representatives": 1,
+          "normalized": 34,
+          "all": 35
+        },
+        {
+          "size": 35,
+          "representatives": 1,
+          "normalized": 1,
+          "all": 1
+        }
+      ]
+    }
+  ]
+}

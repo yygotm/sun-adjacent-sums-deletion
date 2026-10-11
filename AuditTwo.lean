@@ -1,0 +1,13 @@
+import SunTwoDeletion
+
+set_option autoImplicit false
+
+#check SunTwoDeletion.sun_two_deletion_exact
+#check SunTwoDeletion.sun_two_deletion_ordering
+#print axioms SunTwoDeletion.edge_property_odd
+#print axioms SunTwoDeletion.closed_endpoints_exist
+#print axioms SunTwoDeletion.cyclic_quotient_glue_controlled
+#print axioms SunTwoDeletion.normalized_three
+#print axioms SunTwoDeletion.normalized_exact_two_deletion
+#print axioms SunTwoDeletion.sun_two_deletion_exact
+#print axioms SunTwoDeletion.sun_two_deletion_ordering

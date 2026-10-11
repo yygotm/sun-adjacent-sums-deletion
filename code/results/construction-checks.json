@@ -1,0 +1,684 @@
+{
+  "verification-summary": {
+    "complete": true,
+    "isomorphismTypes": 31,
+    "allFourSets": 2407102,
+    "normalized": 214720,
+    "counterexamples": 0,
+    "unknown": 0,
+    "searchSeconds": 891.0138679,
+    "independentAuditSeconds": 244.51399999999558,
+    "independentEdges": 111211048,
+    "gluingCases": 1087056,
+    "gluingSeams": 4805872,
+    "gluingOrientationRepairs": 139874,
+    "gluingNonzeroQrCases": 470528,
+    "constructionNormalizedThrough35": 35020,
+    "extraSamples": 36000,
+    "maxExtraOrder": 243
+  },
+  "general-glue-summary": {
+    "completed": true,
+    "groups": [
+      {
+        "group": "Z7",
+        "eligible": 0,
+        "skipped": 0,
+        "Trials": 0,
+        "BadStarts": 0,
+        "Repairs": 0,
+        "Seams": 0,
+        "NonzeroQr": 0,
+        "Colors": 0
+      },
+      {
+        "group": "Z3xZ3",
+        "eligible": 0,
+        "skipped": 0,
+        "Trials": 0,
+        "BadStarts": 0,
+        "Repairs": 0,
+        "Seams": 0,
+        "NonzeroQr": 0,
+        "Colors": 0
+      },
+      {
+        "group": "Z9",
+        "eligible": 0,
+        "skipped": 0,
+        "Trials": 0,
+        "BadStarts": 0,
+        "Repairs": 0,
+        "Seams": 0,
+        "NonzeroQr": 0,
+        "Colors": 0
+      },
+      {
+        "group": "Z11",
+        "eligible": 0,
+        "skipped": 0,
+        "Trials": 0,
+        "BadStarts": 0,
+        "Repairs": 0,
+        "Seams": 0,
+        "NonzeroQr": 0,
+        "Colors": 0
+      },
+      {
+        "group": "Z13",
+        "eligible": 0,
+        "skipped": 0,
+        "Trials": 0,
+        "BadStarts": 0,
+        "Repairs": 0,
+        "Seams": 0,
+        "NonzeroQr": 0,
+        "Colors": 0
+      },
+      {
+        "group": "Z15",
+        "eligible": 800,
+        "skipped": 2840,
+        "Trials": 800,
+        "BadStarts": 2560,
+        "Repairs": 140,
+        "Seams": 2400,
+        "NonzeroQr": 640,
+        "Colors": 8800
+      },
+      {
+        "group": "Z17",
+        "eligible": 0,
+        "skipped": 0,
+        "Trials": 0,
+        "BadStarts": 0,
+        "Repairs": 0,
+        "Seams": 0,
+        "NonzeroQr": 0,
+        "Colors": 0
+      },
+      {
+        "group": "Z19",
+        "eligible": 0,
+        "skipped": 0,
+        "Trials": 0,
+        "BadStarts": 0,
+        "Repairs": 0,
+        "Seams": 0,
+        "NonzeroQr": 0,
+        "Colors": 0
+      },
+      {
+        "group": "Z21",
+        "eligible": 7728,
+        "skipped": 8232,
+        "Trials": 7728,
+        "BadStarts": 27216,
+        "Repairs": 886,
+        "Seams": 23184,
+        "NonzeroQr": 6624,
+        "Colors": 131376
+      },
+      {
+        "group": "Z23",
+        "eligible": 0,
+        "skipped": 0,
+        "Trials": 0,
+        "BadStarts": 0,
+        "Repairs": 0,
+        "Seams": 0,
+        "NonzeroQr": 0,
+        "Colors": 0
+      },
+      {
+        "group": "Z25",
+        "eligible": 37200,
+        "skipped": 3280,
+        "Trials": 37200,
+        "BadStarts": 113598,
+        "Repairs": 6710,
+        "Seams": 186000,
+        "NonzeroQr": 37200,
+        "Colors": 781200
+      },
+      {
+        "group": "Z5xZ5",
+        "eligible": 223200,
+        "skipped": 19680,
+        "Trials": 223200,
+        "BadStarts": 681999,
+        "Repairs": 40413,
+        "Seams": 1116000,
+        "NonzeroQr": 0,
+        "Colors": 4687200
+      },
+      {
+        "group": "Z27",
+        "eligible": 23472,
+        "skipped": 23328,
+        "Trials": 23472,
+        "BadStarts": 85248,
+        "Repairs": 1918,
+        "Seams": 70416,
+        "NonzeroQr": 23472,
+        "Colors": 539856
+      },
+      {
+        "group": "Z3xZ3xZ3",
+        "eligible": 305136,
+        "skipped": 303264,
+        "Trials": 305136,
+        "BadStarts": 1108224,
+        "Repairs": 28526,
+        "Seams": 915408,
+        "NonzeroQr": 0,
+        "Colors": 7018128
+      },
+      {
+        "group": "Z3xZ9",
+        "eligible": 93888,
+        "skipped": 93312,
+        "Trials": 93888,
+        "BadStarts": 340992,
+        "Repairs": 7733,
+        "Seams": 281664,
+        "NonzeroQr": 70416,
+        "Colors": 2159424
+      },
+      {
+        "group": "Z29",
+        "eligible": 0,
+        "skipped": 0,
+        "Trials": 0,
+        "BadStarts": 0,
+        "Repairs": 0,
+        "Seams": 0,
+        "NonzeroQr": 0,
+        "Colors": 0
+      },
+      {
+        "group": "Z31",
+        "eligible": 0,
+        "skipped": 0,
+        "Trials": 0,
+        "BadStarts": 0,
+        "Repairs": 0,
+        "Seams": 0,
+        "NonzeroQr": 0,
+        "Colors": 0
+      },
+      {
+        "group": "Z33",
+        "eligible": 55880,
+        "skipped": 53240,
+        "Trials": 55880,
+        "BadStarts": 206800,
+        "Repairs": 3496,
+        "Seams": 167640,
+        "NonzeroQr": 50800,
+        "Colors": 1620520
+      },
+      {
+        "group": "Z35",
+        "eligible": 339752,
+        "skipped": 7320,
+        "Trials": 339752,
+        "BadStarts": 1080554,
+        "Repairs": 50052,
+        "Seams": 2043160,
+        "NonzeroQr": 281376,
+        "Colors": 10532312
+      }
+    ],
+    "seconds": 9.4810312
+  },
+  "construction-summary-35": {
+    "completed": true,
+    "groups": [
+      {
+        "group": "Z7",
+        "count": 20,
+        "branches": {
+          "cyclic-odd": 20
+        },
+        "CyclicCases": 20,
+        "PlaneCases": 0,
+        "Inductions": 0,
+        "GlueCases": 0
+      },
+      {
+        "group": "Z3xZ3",
+        "count": 56,
+        "branches": {
+          "plane-nine": 56
+        },
+        "CyclicCases": 0,
+        "PlaneCases": 56,
+        "Inductions": 0,
+        "GlueCases": 0
+      },
+      {
+        "group": "Z9",
+        "count": 56,
+        "branches": {
+          "cyclic-odd": 56
+        },
+        "CyclicCases": 56,
+        "PlaneCases": 0,
+        "Inductions": 0,
+        "GlueCases": 0
+      },
+      {
+        "group": "Z11",
+        "count": 120,
+        "branches": {
+          "cyclic-odd": 120
+        },
+        "CyclicCases": 120,
+        "PlaneCases": 0,
+        "Inductions": 0,
+        "GlueCases": 0
+      },
+      {
+        "group": "Z13",
+        "count": 220,
+        "branches": {
+          "cyclic-odd": 220
+        },
+        "CyclicCases": 220,
+        "PlaneCases": 0,
+        "Inductions": 0,
+        "GlueCases": 0
+      },
+      {
+        "group": "Z15",
+        "count": 364,
+        "branches": {
+          "cyclic-odd": 364
+        },
+        "CyclicCases": 364,
+        "PlaneCases": 0,
+        "Inductions": 0,
+        "GlueCases": 0
+      },
+      {
+        "group": "Z17",
+        "count": 560,
+        "branches": {
+          "cyclic-odd": 560
+        },
+        "CyclicCases": 560,
+        "PlaneCases": 0,
+        "Inductions": 0,
+        "GlueCases": 0
+      },
+      {
+        "group": "Z19",
+        "count": 816,
+        "branches": {
+          "cyclic-odd": 816
+        },
+        "CyclicCases": 816,
+        "PlaneCases": 0,
+        "Inductions": 0,
+        "GlueCases": 0
+      },
+      {
+        "group": "Z21",
+        "count": 1140,
+        "branches": {
+          "cyclic-odd": 1140
+        },
+        "CyclicCases": 1140,
+        "PlaneCases": 0,
+        "Inductions": 0,
+        "GlueCases": 0
+      },
+      {
+        "group": "Z23",
+        "count": 1540,
+        "branches": {
+          "cyclic-odd": 1540
+        },
+        "CyclicCases": 1540,
+        "PlaneCases": 0,
+        "Inductions": 0,
+        "GlueCases": 0
+      },
+      {
+        "group": "Z25",
+        "count": 2024,
+        "branches": {
+          "cyclic-odd": 2024
+        },
+        "CyclicCases": 2024,
+        "PlaneCases": 0,
+        "Inductions": 0,
+        "GlueCases": 0
+      },
+      {
+        "group": "Z5xZ5",
+        "count": 2024,
+        "branches": {
+          "plane-five-direction-glue": 2024
+        },
+        "CyclicCases": 0,
+        "PlaneCases": 0,
+        "Inductions": 0,
+        "GlueCases": 2024
+      },
+      {
+        "group": "Z27",
+        "count": 2600,
+        "branches": {
+          "cyclic-odd": 2600
+        },
+        "CyclicCases": 2600,
+        "PlaneCases": 0,
+        "Inductions": 0,
+        "GlueCases": 0
+      },
+      {
+        "group": "Z3xZ3xZ3",
+        "count": 2600,
+        "branches": {
+          "three-quotient-glue": 2436,
+          "three-quotient-induction": 164
+        },
+        "CyclicCases": 0,
+        "PlaneCases": 0,
+        "Inductions": 164,
+        "GlueCases": 2436
+      },
+      {
+        "group": "Z3xZ9",
+        "count": 2600,
+        "branches": {
+          "three-quotient-glue": 2436,
+          "three-quotient-induction": 164
+        },
+        "CyclicCases": 0,
+        "PlaneCases": 0,
+        "Inductions": 164,
+        "GlueCases": 2436
+      },
+      {
+        "group": "Z29",
+        "count": 3276,
+        "branches": {
+          "cyclic-odd": 3276
+        },
+        "CyclicCases": 3276,
+        "PlaneCases": 0,
+        "Inductions": 0,
+        "GlueCases": 0
+      },
+      {
+        "group": "Z31",
+        "count": 4060,
+        "branches": {
+          "cyclic-odd": 4060
+        },
+        "CyclicCases": 4060,
+        "PlaneCases": 0,
+        "Inductions": 0,
+        "GlueCases": 0
+      },
+      {
+        "group": "Z33",
+        "count": 4960,
+        "branches": {
+          "cyclic-odd": 4960
+        },
+        "CyclicCases": 4960,
+        "PlaneCases": 0,
+        "Inductions": 0,
+        "GlueCases": 0
+      },
+      {
+        "group": "Z35",
+        "count": 5984,
+        "branches": {
+          "cyclic-odd": 5984
+        },
+        "CyclicCases": 5984,
+        "PlaneCases": 0,
+        "Inductions": 0,
+        "GlueCases": 0
+      }
+    ],
+    "seconds": 1.6315146
+  },
+  "construction-extra-summary": {
+    "completed": true,
+    "groups": [
+      {
+        "group": "Z3xZ15",
+        "order": 45,
+        "sampledNormalizedFourSets": 2000,
+        "branches": {
+          "prime-quotient-glue": 1988,
+          "prime-quotient-induction": 12
+        },
+        "oneHoleCheck": true
+      },
+      {
+        "group": "Z7xZ7",
+        "order": 49,
+        "sampledNormalizedFourSets": 2000,
+        "branches": {
+          "prime-quotient-glue": 1998,
+          "prime-quotient-induction": 2
+        },
+        "oneHoleCheck": true
+      },
+      {
+        "group": "Z3xZ21",
+        "order": 63,
+        "sampledNormalizedFourSets": 2000,
+        "branches": {
+          "prime-quotient-glue": 1994,
+          "prime-quotient-induction": 6
+        },
+        "oneHoleCheck": true
+      },
+      {
+        "group": "Z5xZ15",
+        "order": 75,
+        "sampledNormalizedFourSets": 2000,
+        "branches": {
+          "prime-quotient-glue": 1982,
+          "prime-quotient-induction": 18
+        },
+        "oneHoleCheck": true
+      },
+      {
+        "group": "Z3xZ27",
+        "order": 81,
+        "sampledNormalizedFourSets": 2000,
+        "branches": {
+          "three-quotient-glue": 1844,
+          "three-quotient-induction": 156
+        },
+        "oneHoleCheck": true
+      },
+      {
+        "group": "Z9xZ9",
+        "order": 81,
+        "sampledNormalizedFourSets": 2000,
+        "branches": {
+          "three-quotient-glue": 1851,
+          "three-quotient-induction": 149
+        },
+        "oneHoleCheck": true
+      },
+      {
+        "group": "Z3xZ3xZ9",
+        "order": 81,
+        "sampledNormalizedFourSets": 2000,
+        "branches": {
+          "three-quotient-induction": 163,
+          "three-quotient-glue": 1837
+        },
+        "oneHoleCheck": true
+      },
+      {
+        "group": "Z3xZ3xZ3xZ3",
+        "order": 81,
+        "sampledNormalizedFourSets": 2000,
+        "branches": {
+          "three-quotient-glue": 1857,
+          "three-quotient-induction": 143
+        },
+        "oneHoleCheck": true
+      },
+      {
+        "group": "Z3xZ33",
+        "order": 99,
+        "sampledNormalizedFourSets": 2000,
+        "branches": {
+          "prime-quotient-glue": 1999,
+          "prime-quotient-induction": 1
+        },
+        "oneHoleCheck": true
+      },
+      {
+        "group": "Z3xZ39",
+        "order": 117,
+        "sampledNormalizedFourSets": 2000,
+        "branches": {
+          "prime-quotient-glue": 2000
+        },
+        "oneHoleCheck": true
+      },
+      {
+        "group": "Z11xZ11",
+        "order": 121,
+        "sampledNormalizedFourSets": 2000,
+        "branches": {
+          "prime-quotient-glue": 2000
+        },
+        "oneHoleCheck": true
+      },
+      {
+        "group": "Z5xZ25",
+        "order": 125,
+        "sampledNormalizedFourSets": 2000,
+        "branches": {
+          "prime-quotient-glue": 1987,
+          "prime-quotient-induction": 13
+        },
+        "oneHoleCheck": true
+      },
+      {
+        "group": "Z5xZ5xZ5",
+        "order": 125,
+        "sampledNormalizedFourSets": 2000,
+        "branches": {
+          "prime-quotient-glue": 1988,
+          "prime-quotient-induction": 12
+        },
+        "oneHoleCheck": true
+      },
+      {
+        "group": "Z15xZ15",
+        "order": 225,
+        "sampledNormalizedFourSets": 2000,
+        "branches": {
+          "prime-quotient-glue": 1988,
+          "prime-quotient-induction": 12
+        },
+        "oneHoleCheck": true
+      },
+      {
+        "group": "Z3xZ75",
+        "order": 225,
+        "sampledNormalizedFourSets": 2000,
+        "branches": {
+          "prime-quotient-glue": 1984,
+          "prime-quotient-induction": 16
+        },
+        "oneHoleCheck": true
+      },
+      {
+        "group": "Z5xZ45",
+        "order": 225,
+        "sampledNormalizedFourSets": 2000,
+        "branches": {
+          "prime-quotient-glue": 1983,
+          "prime-quotient-induction": 17
+        },
+        "oneHoleCheck": true
+      },
+      {
+        "group": "Z3xZ81",
+        "order": 243,
+        "sampledNormalizedFourSets": 2000,
+        "branches": {
+          "three-quotient-glue": 1813,
+          "three-quotient-induction": 187
+        },
+        "oneHoleCheck": true
+      },
+      {
+        "group": "Z9xZ27",
+        "order": 243,
+        "sampledNormalizedFourSets": 2000,
+        "branches": {
+          "three-quotient-glue": 1829,
+          "three-quotient-induction": 171
+        },
+        "oneHoleCheck": true
+      }
+    ],
+    "seconds": 6.3016678
+  },
+  "cyclic-odd-summary": {
+    "completed": true,
+    "allOddSubsetsModuli3Through21": 2096920,
+    "edges": 20971290,
+    "normalizedFourSetsOddOrders23Through101": 2079200,
+    "seconds": 5.5005585
+  },
+  "structural-summary": {
+    "completed": true,
+    "pass": true,
+    "rows": [
+      {
+        "lemma": "C",
+        "rank": 2,
+        "normalizedMultisets": 165,
+        "functionals": 4
+      },
+      {
+        "lemma": "C",
+        "rank": 3,
+        "normalizedMultisets": 3654,
+        "functionals": 13
+      },
+      {
+        "lemma": "C",
+        "rank": 4,
+        "normalizedMultisets": 91881,
+        "functionals": 40
+      },
+      {
+        "lemma": "D",
+        "allFourSets": 12650,
+        "directions": 6
+      },
+      {
+        "lemma": "E",
+        "allFourSets": 126
+      }
+    ],
+    "fiveHoleBlockingExample": [
+      0,
+      1,
+      2,
+      3,
+      6
+    ],
+    "seconds": 0.1117731
+  }
+}
